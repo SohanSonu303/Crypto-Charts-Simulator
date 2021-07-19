@@ -1,0 +1,16 @@
+.maindiv{
+    max-height: max-content;
+    max-width: max-content;
+}
+
+.topdiv{
+    height: 400px;
+    display: flex;
+    padding: 20px;
+}
+.chartdiv{
+    width: 700px;
+}
+#usermoneydiv{
+    padding-left: 200px;
+}
